@@ -25,3 +25,8 @@ hs_err_pid*
 # IDEA
 .idea
 *.iml
+build/
+.gradle/
+
+# Project specific
+output/
